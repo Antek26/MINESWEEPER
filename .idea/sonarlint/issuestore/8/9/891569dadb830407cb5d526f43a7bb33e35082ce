@@ -1,0 +1,26 @@
+
+R
+java:S2209F"5Change this instance-reference to a static reference.(ª³£Ğ8ÚÅ´½¸.
+K
+java:S1068".Remove this unused "scene20x20" private field.(ë¡Î©8Ú—æ§¸.
+X
+java:S2696P"6Make the enclosing method "static" or remove this set.(Ÿ½ŠÂûÿÿÿÿ8ÚÅ´½¸.
+R
+java:S2209K"5Change this instance-reference to a static reference.(ÎÓö8ÚÅ´½¸.
+@
+java:S1148e"#Use a logger to log this exception.(Ç’Çê8Ø™Ï¼¸.
+S
+java:S2696F"6Make the enclosing method "static" or remove this set.(ª³£Ğ8ÚÅ´½¸.
+W
+java:S2209P"5Change this instance-reference to a static reference.(Ÿ½ŠÂûÿÿÿÿ8ÚÅ´½¸.
+@
+java:S1148r"#Use a logger to log this exception.(Ç’Çê8¤œÑ¼¸.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¯şƒ
+A
+java:S1148€"#Use a logger to log this exception.(Ç’Çê8³øÒ¼¸.
+S
+java:S2696K"6Make the enclosing method "static" or remove this set.(ÎÓö8ÚÅ´½¸.
+S
+java:S2696+"6Make the enclosing method "static" or remove this set.(¦ôÎ²8••¾¾¸.
+R
+java:S2209+"5Change this instance-reference to a static reference.(¦ôÎ²8••¾¾¸.

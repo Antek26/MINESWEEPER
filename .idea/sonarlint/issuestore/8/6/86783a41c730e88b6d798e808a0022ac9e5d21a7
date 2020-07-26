@@ -1,0 +1,8 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÏÁáÂ
+r
+java:S1450"URemove the "button" field and declare it as a local variable in the relevant methods.(÷Ëİ¥8‚ºğ¨¸.
+e
+java:S1226-"HIntroduce a new variable instead of reusing the parameter "selectScene".(µÒ®ò8¼ôì¨¸.
+W
+java:S1128"5Remove this unused import 'javafx.scene.layout.Pane'.(êÄƒÄşÿÿÿÿ8µ„¿¸.
